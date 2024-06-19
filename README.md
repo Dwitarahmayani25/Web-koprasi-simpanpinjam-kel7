@@ -1,4 +1,4 @@
-# SI_PERPUS
+# Koprasi_Simpanpinjam
 
 Aplikasi Koprasi_Simpanpinjam menggunakan Framework Laravel 5.8. Aplikasi ini cocok untuk digunakan umum. Aplikasi ini memiliki 2 role, yaitu Administrator , dan User. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
 
@@ -11,7 +11,7 @@ Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 -   MySQL 14.5.x
 -  Laragon
 
-Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didalam aplikasi XAMPP.
+Jika Anda menggunakan Laragon, untuk PHP dan MySQL sudah menjadi 1 (bundle) didalam aplikasi Laragon.
 
 ### Fitur
 -   Register
