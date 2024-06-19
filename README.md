@@ -24,7 +24,7 @@ Jika Anda menggunakan Laragon, untuk PHP dan MySQL sudah menjadi 1 (bundle) dida
 ### Preview Gambar
 
 Login
-![Image 1](https://drive.google.com/file/d/1zubcgDXzHiz8bqt8jeKD6F2-pgqKUCY-/view?usp=drivesdk )
+![Image 1](https://imgur.com/xpmpBF5 )
 
 Register Admin dan User
 ![Image 2](https://imgur.com/djsHF5V)
